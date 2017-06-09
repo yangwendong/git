@@ -1,3 +1,6 @@
+<<<<<<< Updated upstream
 first stash
 second stash
+=======
+>>>>>>> Stashed changes
 second stash
